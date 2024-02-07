@@ -166,6 +166,7 @@ python ../../../src/TensorflowUNetEvaluator.py ./train_eval_infer.config
 </pre>
 Evaluation console output:<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Pancreas/asset/evaluate_console_output_at_epoch_78.png" width="720" height="auto"><br>
+As shown above, the accuracy 0.9740 for valid dataset is high.<br>
 
 <h2>
 3.3 Inference
