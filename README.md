@@ -51,8 +51,10 @@ Reference: https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT<br>
  If you would like to train this Pancreas Segmentation model by yourself,
  please download the dataset from the google drive 
 <a href="https://drive.google.com/file/d/1Q7cDMSQgtXgZJjg-xIiFHmXOyNn3vio1/view?usp=sharing">
-PPancreas-ImageMask-Dataset_V1.0.zip.</a>
-
+Pancreas-ImageMask-Dataset_V1.0.zip</a> or the augmented 
+<a href="https://drive.google.com/file/d/14DFkGFjm02vORDjvC1q8v0p--E3Ngg9L/view?usp=sharing">
+Pancreas-ImageMask-Dataset_V2.0.zip</a><br>
+ 
 Please see also the <a href="https://github.com/atlan-antillia/Pancreas-ImageMask-Dataset">Pancreas-ImageMask-Dataset</a>.<br>
 Please expand the downloaded ImageMaskDataset and place them under <b>./dataset</b> folder to be
 
