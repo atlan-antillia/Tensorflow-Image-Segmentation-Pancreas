@@ -45,7 +45,8 @@ class DatasetStatistics:
         fullpath = root_dir + "/" +  sub_dir + "/" + subsub_dir
         if subsub_dir == "masks":
            continue
-        files = glob.glob(fullpath + "/*.jpg")
+        files = glob.glob(fullpath + "/*.png")
+        files += glob.glob(fullpath + "/*.jpg")
         count = len(files)
         self.y.append(count)
 
